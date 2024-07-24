@@ -1,5 +1,8 @@
 body {
   padding: 150px;
+  background-color: rgba(247, 59, 222, 0.61);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   color: black;
@@ -13,7 +16,6 @@ p {
 }
 
 .one {
-  background: #f9f7fe;
   text-align: center;
 }
 
