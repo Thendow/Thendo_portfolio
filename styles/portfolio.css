@@ -1,6 +1,6 @@
 body {
   padding: 150px;
-  background-color: rgba(247, 59, 222, 0.61);
+  background-color: rgba(226, 223, 219, 0.938);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -10,6 +10,38 @@ h1 {
   font-weight: bold;
 }
 
+.about-section {
+  text-align: center;
+  padding: 0;
+}
+
+.about-section h1 {
+  font-size: 64px;
+  line-height: 70px;
+  text-align: center;
+}
+
+.about-section h2 {
+  font-size: 18px;
+  font-family: "playfair display" serif;
+}
+
+.about-section-content {
+  margin: 30px;
+}
+
+.about-section p {
+  text-align: justify;
+}
+
+.btn-branding {
+  background: blue;
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
 p {
   font-family: "playfair display" serif;
   font-weight: normal;
